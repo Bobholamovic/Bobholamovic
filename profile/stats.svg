@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lin Manhui's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 546, Total Commits  (last year) : 275, Total PRs: 627, Total Issues: 35, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 545, Total Commits  (last year) : 284, Total PRs: 628, Total Issues: 35, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 35.61870563218528;
+        stroke-dashoffset: 35.14878371933338;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >546</text>
+      >545</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >275</text>
+      >284</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >627</text>
+      >628</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
