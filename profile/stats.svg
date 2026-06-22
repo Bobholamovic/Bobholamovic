@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lin Manhui's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 547, Total Commits  (last year) : 277, Total PRs: 640, Total Issues: 35, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 547, Total Commits  (last year) : 271, Total PRs: 640, Total Issues: 35, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 35.4799982499697;
+        stroke-dashoffset: 35.80598612320606;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >277</text>
+      >271</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
